@@ -5,3 +5,4 @@ Research Associate
 Department of Statistics
 Colorado State University
 
+[CV](GillelandCV.pdf)
