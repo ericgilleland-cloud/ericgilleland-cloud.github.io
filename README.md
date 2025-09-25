@@ -18,3 +18,20 @@ Vigh, J. L., E. Gilleland, C. L. Williams, D. R. Chavas, N. M. Dorst, 2018: TC-O
 
 ## Presentations
 [presentations file](Presentations.md)
+
+## R Software Packages
+[distillery](http://cran.r-project.org/package=distillery): A simple package with some useful method functions used by extRemes (>= 2.0) and SpatialVx (>=0.1-6). As of distillery version 0.1-4, new bootstrap routines are included. They are similar to those found in the boot package but do have some important differences, as well as a function (tibber) for carrying out the test-inversion bootstrap method. See Gilleland (2020; part I and part II) for details.
+
+[extRemes](https://doi.org/10.18637/jss.v072.i08): extreme value analysis.
+
+in2extRemes: point-and-click software operating some of the functionality included in extRemes. [deprecated]
+
+[ismev](http://cran.r-project.org/package=ismev): extreme value analysis functions ported from S by Alec Stephenson, and originally written by Janet Heffernan, that accompany the EVA text book by Stuart Coles.
+
+[RadioSonde](http://cran.r-project.org/package=RadioSonde): software for creating skew-T diagrams and plots with wind barbs.
+
+[smoothie](http://cran.r-project.org/package=smoothie): software for applying the convolution theorem with the fast Fourier transform to smooth a two-dimensional gridded spatial field or image ([pdf manual](http://opensky.library.ucar.edu/collections/TECH-NOTE-000-000-000-869)).
+
+[SpatialVx](http://projects.ral.ucar.edu/icp/SpatialVx/): software for doing spatial weather forecast verification [pdf manual](https://doi.org/10.5065/4px3-5a05).
+
+[verification](http://cran.r-project.org/package=verification): routines predominantly written by Matt Pocernich for performing weather forecast verification.
