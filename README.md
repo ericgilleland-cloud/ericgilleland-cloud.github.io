@@ -35,3 +35,26 @@ in2extRemes: point-and-click software operating some of the functionality includ
 [SpatialVx](http://projects.ral.ucar.edu/icp/SpatialVx/): software for doing spatial weather forecast verification [pdf manual](https://doi.org/10.5065/4px3-5a05).
 
 [verification](http://cran.r-project.org/package=verification): routines predominantly written by Matt Pocernich for performing weather forecast verification.
+
+### Other
+I also provided advice on what to include in the Model Evaluations Toolkit software package.
+
+## Visits
+1 August 2018 - 31 July 2019, Developmental Testbed Center (DTC) visitor to NCAR, Boulder, Colorado, U.S.A. Adavanced Distance-based, Field Deformation and Statistical Hypothesis Utilities for MET.
+
+22 February - 8 March 2017. Department of Statistical Sciences and Operations Research, Virginia Commonwealth University, Richmond, Virginia, U.S.A.
+
+3 - 6 October 2016. Met Office and Mathematics Department, University of Exeter, Exeter, United Kingdom.
+
+17 April 2014. Department of Mathematical Sciences, University of Delaware, Newark, Delaware, U.S.A.
+
+12 - 14 September 2011. Shell Technology Center, Houston, Texas, U.S.A.
+
+5 - 6 October 2009. Laboratoire des Sciences du Climat et de l'Environnement, IPSL-CNRS, Gif-Sur-Yvette, France.
+
+21 October to 3 November 2007. Mathematical Statistics, Centre for Mathematical Sciences, Lund University, Lund, Sweden.
+    Seminar: Method for Object-based Diagnostic Evaluation (MODE): A features-based spatial forecast verification technique, 26 October 2008.
+
+## Links
+[WMO JWGFVR Weather Forecast Verification Information Page](https://jwgfvr.github.io/forecastverification/).
+
