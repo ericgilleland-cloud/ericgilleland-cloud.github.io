@@ -9,7 +9,7 @@ Colorado State University
 
 [CV](https://github.com/ericgilleland-cloud/ericgilleland-cloud.github.io/blob/main/GillelandCV.pdf), [LinkedIn Profile](https://www.linkedin.com/in/eric-gilleland-95951b32/), [ORCiD and Profile](https://orcid.org/0000-0002-8058-7643), [Google Scholar Profile](https://scholar.google.com/citations?user=63FaSg0AAAAJ&hl=en&oi=ao)
 
-Dissertation (2004): ["Statistical models for quantifying the spatial distribution of seasonally derived ozone standards."](Gilleland-dissertation.pdf)
+Dissertation (2004): ["Statistical models for quantifying the spatial distribution of seasonally derived ozone standards."](https://github.com/ericgilleland-cloud/ericgilleland-cloud.github.io/blob/main/Gilleland-dissertation.pdf)
 Advisers: [Douglas W. Nychka](https://research.mines.edu/project/nychka-douglas/) and [Thomas C.M. Lee](https://www.stat.ucdavis.edu/~tcmlee/index.html)
 
 ## Products
@@ -37,9 +37,6 @@ in2extRemes: point-and-click software operating some of the functionality includ
 [SpatialVx](http://projects.ral.ucar.edu/icp/SpatialVx/): software for doing spatial weather forecast verification [pdf manual](https://doi.org/10.5065/4px3-5a05).
 
 [verification](http://cran.r-project.org/package=verification): routines predominantly written by Matt Pocernich for performing weather forecast verification.
-
-### Other
-I also provided advice on what to include in the Model Evaluations Toolkit software package.
 
 ## Visits
 1 August 2018 - 31 July 2019, Developmental Testbed Center (DTC) visitor to NCAR, Boulder, Colorado, U.S.A. Adavanced Distance-based, Field Deformation and Statistical Hypothesis Utilities for MET.
