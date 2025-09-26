@@ -7,7 +7,7 @@ Department of Statistics
 
 Colorado State University
 
-[CV](https://github.com/ericgilleland-cloud/ericgilleland-cloud.github.io/blob/main/Presentations.md), [LinkedIn Profile](https://www.linkedin.com/in/eric-gilleland-95951b32/), [ORCiD and Profile](https://orcid.org/0000-0002-8058-7643), [Google Scholar Profile](https://scholar.google.com/citations?user=63FaSg0AAAAJ&hl=en&oi=ao)
+[CV](), [LinkedIn Profile](https://www.linkedin.com/in/eric-gilleland-95951b32/), [ORCiD and Profile](https://orcid.org/0000-0002-8058-7643), [Google Scholar Profile](https://scholar.google.com/citations?user=63FaSg0AAAAJ&hl=en&oi=ao)
 
 Dissertation (2004): ["Statistical models for quantifying the spatial distribution of seasonally derived ozone standards."](Gilleland-dissertation.pdf)
 Advisers: [Douglas W. Nychka](https://research.mines.edu/project/nychka-douglas/) and [Thomas C.M. Lee](https://www.stat.ucdavis.edu/~tcmlee/index.html)
@@ -19,7 +19,7 @@ Advisers: [Douglas W. Nychka](https://research.mines.edu/project/nychka-douglas/
 Vigh, J. L., E. Gilleland, C. L. Williams, D. R. Chavas, N. M. Dorst, 2018: TC-OBS: The Tropical Cyclone Observations-Based Structure Database (Version 0.42, an alpha-level release). Tropical Cyclone Data Project, National Center for Atmospheric Research, Research Applications Laboratory, Boulder, Colorado. doi:10.5065/D6BC <!-- (https://doi.org/10.5065/D6BC)-->.
 
 ## Presentations
-[presentations file](Presentations.md)
+[presentations file]([Presentations.md](https://github.com/ericgilleland-cloud/ericgilleland-cloud.github.io/blob/main/Presentations.md))
 
 ## R Software Packages
 [distillery](http://cran.r-project.org/package=distillery): A simple package with some useful method functions used by extRemes (>= 2.0) and SpatialVx (>=0.1-6). As of distillery version 0.1-4, new bootstrap routines are included. They are similar to those found in the boot package but do have some important differences, as well as a function (tibber) for carrying out the test-inversion bootstrap method. See Gilleland (2020; part I and part II) for details.
