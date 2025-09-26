@@ -2,7 +2,9 @@
 Personal webpage for Eric Gilleland, Statistician-at-Large
 
 Research Associate
+
 Department of Statistics
+
 Colorado State University
 
 [CV](GillelandCV.pdf), [LinkedIn Profile](https://www.linkedin.com/in/eric-gilleland-95951b32/), [ORCiD and Profile](https://orcid.org/0000-0002-8058-7643), [Google Scholar Profile](https://scholar.google.com/citations?user=63FaSg0AAAAJ&hl=en&oi=ao)
