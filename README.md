@@ -32,7 +32,7 @@ in2extRemes: point-and-click software operating some of the functionality includ
 
 [RadioSonde](http://cran.r-project.org/package=RadioSonde): software for creating skew-T diagrams and plots with wind barbs.
 
-[smoothie](http://cran.r-project.org/package=smoothie): software for applying the convolution theorem with the fast Fourier transform to smooth a two-dimensional gridded spatial field or image ([pdf manual](http://opensky.library.ucar.edu/collections/TECH-NOTE-000-000-000-869)).
+[smoothie](http://cran.r-project.org/package=smoothie): software for applying the convolution theorem with the fast Fourier transform to smooth a two-dimensional gridded spatial field or image ([pdf manual](https://n2t.org/ark:/85065/d7862fv1)).
 
 [SpatialVx](http://projects.ral.ucar.edu/icp/SpatialVx/): software for doing spatial weather forecast verification [pdf manual](https://doi.org/10.5065/4px3-5a05).
 
