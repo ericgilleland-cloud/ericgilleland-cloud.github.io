@@ -21,6 +21,10 @@ Vigh, J. L., E. Gilleland, C. L. Williams, D. R. Chavas, N. M. Dorst, 2018: TC-O
 ## Presentations
 [presentations file](https://github.com/ericgilleland-cloud/ericgilleland-cloud.github.io/blob/main/Presentations.md)
 
+## Short Courses
+
+[short courses](https://github.com/ericgilleland-cloud/ericgilleland-cloud.github.io/blob/main/ShortCourses.md)
+
 ## R Software Packages
 [distillery](http://cran.r-project.org/package=distillery): A simple package with some useful method functions used by extRemes (>= 2.0) and SpatialVx (>=0.1-6). As of distillery version 0.1-4, new bootstrap routines are included. They are similar to those found in the boot package but do have some important differences, as well as a function (tibber) for carrying out the test-inversion bootstrap method. See Gilleland (2020; part I and part II) for details.
 
