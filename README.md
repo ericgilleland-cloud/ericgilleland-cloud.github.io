@@ -38,7 +38,7 @@ in2extRemes: point-and-click software operating some of the functionality includ
 
 [smoothie](http://cran.r-project.org/package=smoothie): software for applying the convolution theorem with the fast Fourier transform to smooth a two-dimensional gridded spatial field or image ([pdf manual](https://n2t.org/ark:/85065/d7862fv1)).
 
-[SpatialVx](http://projects.ral.ucar.edu/icp/SpatialVx/): software for doing spatial weather forecast verification [pdf manual](https://doi.org/10.5065/4px3-5a05).
+[SpatialVx](http://projects.ral.ucar.edu/icp/SpatialVx/): software for doing spatial weather forecast verification ([pdf manual](https://doi.org/10.5065/4px3-5a05)).
 
 [verification](http://cran.r-project.org/package=verification): routines predominantly written by Matt Pocernich for performing weather forecast verification.
 
