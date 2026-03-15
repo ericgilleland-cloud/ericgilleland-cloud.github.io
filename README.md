@@ -43,6 +43,8 @@ in2extRemes: point-and-click software operating some of the functionality includ
 [verification](http://cran.r-project.org/package=verification): routines predominantly written by Matt Pocernich for performing weather forecast verification.
 
 ## Visits
+27 September 2024, Geosciences, Fullbright College of Arts and Sciences, University of Arkansas.
+
 1 August 2018 - 31 July 2019, Developmental Testbed Center (DTC) visitor to NCAR, Boulder, Colorado, U.S.A. Adavanced Distance-based, Field Deformation and Statistical Hypothesis Utilities for MET.
 
 22 February - 8 March 2017. Department of Statistical Sciences and Operations Research, Virginia Commonwealth University, Richmond, Virginia, U.S.A.
